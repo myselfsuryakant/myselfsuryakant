@@ -9,8 +9,8 @@
 Python | Pandas | Scikit-learn | Flask | HTML | Git | Video Editing
 
 ## 🏆 Projects
-- [**GitConnect:**](https://github.com/myselfsuryakant/GitConnect) A platform to connect laborers and users (https://github.com/myselfsuryakant/GitConnect)
-- **my_python_journey:** All my Python learning projects (https://github.com/myselfsuryakant/my_python_journey)
+- [**GitConnect:**](https://github.com/myselfsuryakant/GitConnect) A platform to connect laborers and users.
+- [**my_python_journey:**](https://github.com/myselfsuryakant/my_python_journey) All my Python learning projects
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/myselfsuryakant)
